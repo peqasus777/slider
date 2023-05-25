@@ -1,5 +1,3 @@
-#carousel-slider 
+# carousel-slider 
 
-
-
-#html,css,js,jquery
+## html,css,js,jquery
